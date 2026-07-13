@@ -19,13 +19,13 @@ to skip to the next song/folder, press the other button. to go back, hold the sa
 
 ## images
 finished product:
-![finished mp3 player](https://github.com/domincmd/arduino-mp3/images/finished1.jpg?raw=true)
-![finished mp3 player](https://github.com/domincmd/arduino-mp3/images/finished2.jpg?raw=true)
-![finished mp3 player](https://github.com/domincmd/arduino-mp3/images/finished3.jpg?raw=true)
-![finished mp3 player](https://github.com/domincmd/arduino-mp3/images/finished4.jpg?raw=true)
+![finished mp3 player](https://github.com/domincmd/arduino-mp3/blob/main/images/finished1.jpg)
+![finished mp3 player](https://github.com/domincmd/arduino-mp3/blob/main/images/finished2.jpg)
+![finished mp3 player](https://github.com/domincmd/arduino-mp3/blob/main/images/finished3.jpg)
+![finished mp3 player](https://github.com/domincmd/arduino-mp3/blob/main/images/finished4.jpg)
 
 soldering:
-![soldering](https://github.com/domincmd/arduino-mp3/images/soldering.jpg?raw=true)
+![soldering](https://github.com/domincmd/arduino-mp3/blob/main/images/soldering.jpg)
 
 all glued together:
-![glued](https://github.com/domincmd/arduino-mp3/images/glued.jpg?raw=true)
+![glued](https://github.com/domincmd/arduino-mp3/blob/main/images/glued.jpg)
